@@ -1,43 +1,43 @@
 const quotes = [
     {
         quote:"This is your life. Do what you love, and do it often.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
         quote:"If you don't like something, change it.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
         quote:"If you don't like your job, quie.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
         quote:"If you don't have enough time, stop watching TV.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
-        quote:"If you are looking for the love of your life, stop. They will be wwaiting for you when you start doing things you love.",
-        author:"holstee",
+        quote:"If you are looking for the love of your life, stop. They will be waiting for you when you start doing things you love.",
+        author:"  - holstee",
     },
     {
         quote:"Stop over analyzing, life is simple.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
         quote:"All emotions are beautiful.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
         quote:"Open your mind, arms and heart to new things.",
-        author:"holstee",
+        author:" - holstee",
     },
     {
         quote:"Travel often, getting lost will help you find yourself.",
-        author:"holstee",
+        author:"  - holstee",
     },
     {
         quote:"Some opportunities only come once, Seize them.",
-        author:"holstee",
+        author:"  - holstee",
     },
 ]
 const quote = document.querySelector("#quote span:first-child");

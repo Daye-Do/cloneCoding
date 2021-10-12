@@ -2,6 +2,42 @@
   display: none;
 }
 
+#clock {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 8rem;
+  color: rgba(9, 9, 9, 0.671);
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 35%;
+}
+
+#login-form,
+#todo-form {
+  margin-left: 45%;
+}
+#todo-form {
+  margin-bottom: 16rem;
+}
+
+#quote span:first-child,
+#quote span:last-child {
+  margin-left: 35%;
+}
+
+#quote {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 2rem;
+  color: rgba(231, 238, 245, 0.986);
+  margin-top: 40%;
+}
+#quote {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 img {
   position: absolute;
   width: 100%;
