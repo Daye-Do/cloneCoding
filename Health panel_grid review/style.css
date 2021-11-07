@@ -7,14 +7,14 @@
 }
 
 body {
-  background: rgb(76, 88, 80);
+  background: rgb(126, 114, 100);
   color: #fff;
   font-family: 'Times New Roman', Times, serif;
     Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 .navbar{
-    background-color: rgb(109, 109, 131);
+    background-color: rgba(228, 193, 161, 0.842);
     padding:60px;
 }
 
